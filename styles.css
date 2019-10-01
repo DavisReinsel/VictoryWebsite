@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  width: 750px;
+  width: 1000px;
   font-family: Arial;
   color: #8B0000;}
 
@@ -42,33 +42,3 @@ h2 {
     background-color: #f2f2f2;
     padding: 20px;
   }
-
-header {
-  background-color: yellow;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: blue;
-}
-
-article {
-  float: left;
-  padding: 20px;
-  width: 70%;
-  background-color: red;
-  height: 300px;
-}
-
-section: {
-  float:right;
-  content: "";
-  display: table;
-  clear: both;
-}
-
-footer {
-  background-color: black;
-  padding: 10px;
-  text-align: center;
-  color: green
-}
