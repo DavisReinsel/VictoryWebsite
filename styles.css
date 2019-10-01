@@ -43,7 +43,14 @@ h2 {
     padding: 20px;
   }
 
-  body {
-    background-image: URL("VBC.jpg");
-    background-size: 1440px 1440px;
-  }
+}
+.column {
+    float: left;
+}
+
+.right, .left {
+  width: 25%;
+}
+.middle {
+  width: 50%;
+}
