@@ -29,9 +29,9 @@ h2 {
     font-size: 17px;
 }
 .topnav a:hover {
-    background-color: #8B0000;
+    background-color: white;
     color: black;
 }
 .topnav a.active {
-    background-color: #8B0000;
+    background-color: black;
     color: white;
