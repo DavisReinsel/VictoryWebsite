@@ -59,7 +59,8 @@ article {
   height: 300px;
 }
 
-section:after {
+section: {
+  float:right;
   content: "";
   display: table;
   clear: both;
@@ -69,5 +70,5 @@ footer {
   background-color: black;
   padding: 10px;
   text-align: center;
-  color: white;
+  color: green
 }
