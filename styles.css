@@ -42,36 +42,3 @@ h2 {
     background-color: #f2f2f2;
     padding: 20px;
   }
-
-}
-.button-red {
-  background-color: #8B0000;
-  font-size: 16px;
-  color: white;
-  padding: 12px 28px;
-  border-radius: 4px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  -webkit-transition-duration: 0.4s;
-  transition-duration: 0.4s;
-  cursor: pointer;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  margin-right: 10px;
-  margin-left: 0px;
-}
-.button:hover {
-    background-color: #f2f2f2;
-    color: white;
-  }
-}
-
-.column1of2 {
-  float: left;
-  width:300px;
-  margin: 10px;}
-.column2of2 {
-  float: right;
-  width: 620px;
-  margin: 10px}
